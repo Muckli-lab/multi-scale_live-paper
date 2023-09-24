@@ -46,7 +46,7 @@ Lars Muckli<sup>1,2,\*</sup>,Lucy S. Petro<sup>1,2,\*</sup>, Clement Abbatecola<
 
 1. Centre for Cognitive Neuroimaging, School of Psychology and Neuroscience, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, United Kingdom, G12 8QB. 
 2. Imaging Centre for Excellence, Queen Elizabeth University Hospital, University of Glasgow, G51 4LB. 
-3. CMI Lab, Department of Computing Science and Mathematics, University of Stirling, FK9 4LA, Stirling, UK, Oxford
+3. CMI Lab, Department of Computing Science and Mathematics, University of Stirling, FK9 4LA, Stirling, UK. Oxford Computational Neuroscience Lab, Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK.
 4. Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.  
 5. Department of Physiology, University of Bern, Switzerland; Kirchhoff-Institute for Physics, Heidelberg University, Germany 
 6. Paris-Saclay University, CNRS, Saclay, France 
