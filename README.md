@@ -64,7 +64,8 @@ Lars Muckli<sup>1,2,\*</sup>,Lucy S. Petro<sup>1,2,\*</sup>, Clement Abbatecola<
 18. School of Psychology, University of East Anglia, Norwich Research Park, Norwich NR4 7TJ, UK. 
 19. Brain Signalling Group, Department of Physiology, Institute of Basic Medicine, University of Oslo, Oslo, Norway. 
 20. Laboratory for Neuro- and Psychophysiology, Department of Neurosciences, KU Leuven Medical School, Leuven, 3000, Belgium. Leuven Brain Institute, KU Leuven, Leuven, 3000, Belgium. Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, 02129, USA. Department of Radiology, Harvard Medical School, Boston, MA, 02144, USA. 
-21. Neurocure Center for Excellence, Charité Universitätsmedizin Berlin & Humboldt Universität, Berlin, Germany 
+21. Neurocure Center for Excellence, Charité Universitätsmedizin Berlin & Humboldt Universität, Berlin, Germany
+
 *Equal contribution 
 
 
