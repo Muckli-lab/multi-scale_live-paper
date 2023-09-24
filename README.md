@@ -10,7 +10,7 @@ Conscious cognition depends on the ability of the neocortex to generate internal
     target="_blank"
     rel="noreferrer noopener"
     ><img
-      src="https://raw.githubusercontent.com/Muckli-lab/multi-scale_live-paper/main/misc/Fig3_1.png"
+      src="./misc/Fig3_1.png"
       width="49%"
   /></a>
   <a
@@ -18,7 +18,7 @@ Conscious cognition depends on the ability of the neocortex to generate internal
     target="_blank"
     rel="noreferrer noopener"
     ><img
-      src="https://raw.githubusercontent.com/Muckli-lab/multi-scale_live-paper/main/misc/Fig3_2.png"
+      src="./misc/Fig3_2.png"
       width="49%"
   /></a>
   <a
@@ -26,7 +26,7 @@ Conscious cognition depends on the ability of the neocortex to generate internal
     target="_blank"
     rel="noreferrer noopener"
     ><img
-      src="https://raw.githubusercontent.com/Muckli-lab/multi-scale_live-paper/main/misc/Fig3_3.png"
+      src="./misc/Fig3_3.png"
       width="49%"
   /></a>
   <a
@@ -34,7 +34,7 @@ Conscious cognition depends on the ability of the neocortex to generate internal
     target="_blank"
     rel="noreferrer noopener"
     ><img
-      src="https://raw.githubusercontent.com/Muckli-lab/multi-scale_live-paper/main/misc/Fig3_4.png"
+      src="./misc/Fig3_4.png"
       width="49%"
   /></a>
 </p>
